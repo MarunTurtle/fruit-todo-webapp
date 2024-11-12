@@ -58,10 +58,6 @@ FruitTodo is a visually engaging and interactive to-do list app built with Vue 3
 ### Demo
 ### [![Watch the video](https://img.youtube.com/vi/ez9XW-NKxOY/0.jpg)](https://youtu.be/ez9XW-NKxOY)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; height: auto;">
-  <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/ez9XW-NKxOY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
-
 ![alt text](MockUp01.png) 
 ![alt text](MockUp02.png) 
 ![alt text](MockUp03.png)
