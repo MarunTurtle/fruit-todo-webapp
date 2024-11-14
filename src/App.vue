@@ -7,11 +7,11 @@
     <!-- 전역 헤더 -->
     <header class="bg-light py-3 shadow-sm mb-4">
       <div class="container text-center">
-        <h1 class="m-0">ToDo List 📝</h1> <!-- 제목 -->
+        <h1 class="m-0">ToDo List 📝</h1> 
       </div>
     </header>
     <!-- 라우터 콘텐츠 -->
-    <RouterView /> <!-- 각 라우트에 따른 콘텐츠 출력 -->
+    <RouterView /> 
   </div>
 </template>
 
@@ -42,7 +42,7 @@ header {
 }
 
 .container {
-  max-width: 960px; /* 중앙 정렬 컨테이너 */
+  max-width: 1080px; /* 중앙 정렬 컨테이너 */
   margin: 0 auto; /* 좌우 여백 */
 }
 

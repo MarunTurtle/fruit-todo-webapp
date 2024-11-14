@@ -47,7 +47,7 @@ const cardBackgroundColor = computed(() => {
 <template>
   <div
     class="todo-item card shadow-sm p-3 mb-3"
-    :style="{ backgroundColor: cardBackgroundColor }" <!-- 동적 배경색 -->
+    :style="{ backgroundColor: cardBackgroundColor }"
   >
     <!-- Todo 텍스트 및 컨트롤 -->
     <div class="d-flex align-items-center justify-content-between">
@@ -57,7 +57,7 @@ const cardBackgroundColor = computed(() => {
         <input
           type="checkbox"
           :checked="todo.completed"
-          @change="toggleComplete" <!-- 완료 상태 토글 -->
+          @change="toggleComplete" 
           class="form-check-input me-3"
         />
         <!-- Todo 텍스트: 완료 상태일 경우 취소선 -->
@@ -68,7 +68,7 @@ const cardBackgroundColor = computed(() => {
 
       <!-- 편집 상태 -->
       <div v-else class="flex-grow-1">
-        <input v-model="editedText" class="form-control me-3" /> <!-- 편집 텍스트 입력 -->
+        <input v-model="editedText" class="form-control me-3" /> 
       </div>
 
       <!-- 버튼 그룹 -->

@@ -6,5 +6,5 @@ body {
 
 /* 컨테이너 기본 설정 */
 .container {
-  max-width: 960px; /* 최대 너비 960px */
+  max-width: 1080px; /* 최대 너비 960px */
 }
