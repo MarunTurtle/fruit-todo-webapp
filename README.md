@@ -55,8 +55,8 @@ FruitTodo는 Vue 3로 만든 시각적으로 재미있고 인터랙티브한 할
 
 ## 데모 & 스크린샷 📸
 
-### 데모 영상
-### [![Watch the video](https://img.youtube.com/vi/ez9XW-NKxOY/0.jpg)](https://youtu.be/ez9XW-NKxOY)
+### [데모 영상]((https://img.youtube.com/vi/ez9XW-NKxOY/0.jpg)](https://youtu.be/ez9XW-NKxOY))
+![Watch the video](https://img.youtube.com/vi/ez9XW-NKxOY/0.jpg)](https://youtu.be/ez9XW-NKxOY)
 
 ![alt text](MockUp01.png) 
 ![alt text](MockUp02.png) 
