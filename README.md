@@ -56,8 +56,7 @@ FruitTodo는 Vue 3로 만든 시각적으로 재미있고 인터랙티브한 할
 ## 데모 & 스크린샷 📸
 
 ### 데모 영상
-![Uploading FruitTodo Web Application Demonstration.gif…]()
-
+![FruitTodo Web Application Demonstration](https://github.com/user-attachments/assets/bf635758-3bc8-4e43-b6d9-cbee0da1af69)
 
 ### 애플리케이션 기본 화면
 ![alt text](MockUp01.png) 
