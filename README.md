@@ -55,17 +55,23 @@ FruitTodo는 Vue 3로 만든 시각적으로 재미있고 인터랙티브한 할
 
 ## 데모 & 스크린샷 📸
 
-### 데모 영상
-![FruitTodo Web Application Demonstration](https://github.com/user-attachments/assets/bf635758-3bc8-4e43-b6d9-cbee0da1af69)
-
 ### 애플리케이션 기본 화면
 ![alt text](MockUp01.png) 
 
+### 할일 생성 및 이름 변경
+![FruitTodo Web Application Demonstration4](https://github.com/user-attachments/assets/8eb25ae2-de85-4ae0-806b-c3ee118497f7)
+
 ### 할 일의 중요도별 과일 크기 차이
-![alt text](MockUp02.png) 
+![FruitTodo Web Application Demonstration1](https://github.com/user-attachments/assets/9543ec29-f01d-4f7a-a672-d1bff936062f)
 
 ### 할 일이 너무 많을 시 할 일 추가 버튼 비활성화
 ![alt text](MockUp03.png)
+
+### 할 일 완료 시 과일 삭제
+![FruitTodo Web Application Demonstration2](https://github.com/user-attachments/assets/5f3ba268-91dd-4314-bda8-3b1a9847ea7b)
+
+### 할 일 모두 삭제
+![FruitTodo Web Application Demonstration3](https://github.com/user-attachments/assets/20376014-33fc-4c6f-9e47-079ec9815195)
 
 ---
 
